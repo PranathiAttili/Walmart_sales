@@ -1,4 +1,3 @@
-# Walmart_sales
 
 #  Walmart Sales Data Analysis (SQL Project)
 
