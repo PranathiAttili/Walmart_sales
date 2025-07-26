@@ -27,7 +27,7 @@ This SQL project dives into **sales, transactions, customer behavior, and revenu
 
 ---
 
-## 🛠️ SQL Concepts Used
+## 🛠 SQL Concepts Used
 
 - `GROUP BY` and aggregate functions (`SUM`, `AVG`, `COUNT`, `MIN`, `MAX`)
 - Window functions: `RANK() OVER (PARTITION BY ...)`
